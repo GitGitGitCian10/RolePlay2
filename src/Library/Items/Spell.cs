@@ -1,6 +1,6 @@
 namespace RoleplayGame
 {
-    public class Spell
+    public class Spell : IItemMagico
     {
         public int AttackValue
         {

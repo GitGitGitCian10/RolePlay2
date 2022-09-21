@@ -1,6 +1,6 @@
 namespace RoleplayGame
 {
-    public class Archer
+    public class Archer : IPersonaje
     {
         private int health = 100;
 
